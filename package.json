@@ -44,7 +44,7 @@
     "karma-webpack": "^1.7.0",
     "mocha": "^2.2.5",
     "phantomjs": "^1.9.17",
-    "react": "^0.14.0-beta1",
+    "react": ">=0.12 <0.14",
     "sinon": "^1.15.4",
     "webpack": "^1.7.2",
     "webpack-dev-server": "^1.7.0"
@@ -56,7 +56,6 @@
     "moment": "^2.10",
     "tether": "^1.1.0",
     "react-onclickoutside": "0.3.0",
-    "react-dom": "^0.14.0-beta1",
     "lodash": "^3.10.0"
   },
   "scripts": {
